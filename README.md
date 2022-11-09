@@ -30,7 +30,7 @@ Follow [the instruction from OpenHaystack](https://github.com/seemoo-lab/openhay
 
 ### Deploy firmware on esp-wroom-32
 
-Plug esp32 into Macos, execute
+Connect esp32 with Macos by USB, execute
 
 ```
 ./flash_esp32.sh -p /dev/yourSerialPort "Base64-encoded advertisement key"
